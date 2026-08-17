@@ -24,4 +24,4 @@ Environment: Developed and trained using Google Colab.
 
 [View the Project in Document format](DL_PrgAssign2.ipynb_Colab.pdf)
 
-[View the Project in Document format](Prg2DeepLearning.pdf)
+[View the Project Question](Prg2DeepLearning.pdf)

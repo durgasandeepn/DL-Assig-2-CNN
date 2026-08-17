@@ -1,0 +1,9 @@
+{
+  "part": 1,
+  "seed": 42,
+  "epochs": 30,
+  "batch_size": 64,
+  "lr": 0.001,
+  "val_split": 0.2,
+  "img_size_part3": 96
+}
